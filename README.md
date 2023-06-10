@@ -8,10 +8,6 @@
 
 
 
-```bash
-php artisan serve
-```    
-
 
 ## Screenshots
 ![](https://raw.githubusercontent.com/codehafeez/php-api/main/Screenshots/Output-01.png)
